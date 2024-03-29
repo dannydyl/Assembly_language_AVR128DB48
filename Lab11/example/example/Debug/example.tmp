@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab11\example\example\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab11\example\example\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab11\example\example\Debug\example.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>example.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>example.map</FILE>
+  <FILE>example.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>F:\ESE280 Lab\Lab11\example\example\main.asm</FILE><LINE>36</LINE></reset>
+  <start><FILE>F:\ESE280 Lab\Lab11\example\example\main.asm</FILE><LINE>41</LINE></start>
+  <main_loop><FILE>F:\ESE280 Lab\Lab11\example\example\main.asm</FILE><LINE>74</LINE></main_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
