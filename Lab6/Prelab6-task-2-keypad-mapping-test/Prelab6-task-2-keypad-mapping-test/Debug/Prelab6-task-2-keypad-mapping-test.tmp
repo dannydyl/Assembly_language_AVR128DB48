@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\Debug\Prelab6-task-2-keypad-mapping-test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prelab6-task-2-keypad-mapping-test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prelab6-task-2-keypad-mapping-test.map</FILE>
+  <FILE>Prelab6-task-2-keypad-mapping-test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>9</LINE></start>
+  <wait_for_1><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>20</LINE></wait_for_1>
+  <table><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>25</LINE></table>
+  <output><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>28</LINE></output>
+  <lookup><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>39</LINE></lookup>
+  <delay_break><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>54</LINE></delay_break>
+  <outer_loop_break><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>56</LINE></outer_loop_break>
+  <inner_loop_break><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>58</LINE></inner_loop_break>
+  <clear_flipflop><FILE>F:\ESE280 Lab\Lab6\Prelab6-task-2-keypad-mapping-test\Prelab6-task-2-keypad-mapping-test\main.asm</FILE><LINE>64</LINE></clear_flipflop>
+ </LABELS>
+</ASSEMBLER_INFO>

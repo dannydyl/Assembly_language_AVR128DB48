@@ -1,0 +1,65 @@
+(ExpressProject "Prelab7-schematic"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S005 (4113640)  [6/9/2023]-[10/19/23]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\prelab7-schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (PartMRUSelector
+    ("HEADER 10/SM"
+      (FullPartName "HEADER 10/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HW-USBN-2A-HEADER 5X2"
+      (FullPartName "HW-USBN-2A-HEADER 5X2.Normal")
+      (LibraryName "F:\ESE280 LAB\ESDLORCADSCHEMLIB(1).OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR NON-POL"
+      (FullPartName "CAPACITOR NON-POL.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("EA DOGM163W-A + LED55x31-W"
+      (FullPartName "EA DOGM163W-A + LED55x31-W.Normal")
+      (LibraryName "F:\ESE280 LAB\ESDLORCADSCHEMLIB(1).OLB")
+      (DeviceIndex "0"))
+    (AVR128DB48Cnano
+      (FullPartName "AVR128DB48Cnano.Normal")
+      (LibraryName "F:\ESE280 LAB\ESDLORCADSCHEMLIB(1).OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "CAD")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 722"))
+      (Tab 0)))
+  (LastUsedLibraryBrowseDirectory "F:\ESE280 Lab"))

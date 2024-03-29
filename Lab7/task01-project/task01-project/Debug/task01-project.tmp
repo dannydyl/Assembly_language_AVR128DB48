@@ -1,0 +1,80 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab7\task01-project\task01-project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+  <FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\Debug\task01-project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>task01-project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>task01-project.map</FILE>
+  <FILE>task01-project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>34</LINE></RESET>
+  <init_lcd_dog><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>283</LINE></init_lcd_dog>
+  <clr_dsp_buffs><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>85</LINE></clr_dsp_buffs>
+  <update_lcd_dog><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>353</LINE></update_lcd_dog>
+  <test_lcd><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>103</LINE></test_lcd>
+  <delay_loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>51</LINE></delay_loop>
+  <delay_4s><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>133</LINE></delay_4s>
+  <end_loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>60</LINE></end_loop>
+  <dsp_buff_1><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>66</LINE></dsp_buff_1>
+  <dsp_buff_2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>67</LINE></dsp_buff_2>
+  <dsp_buff_3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>68</LINE></dsp_buff_3>
+  <delay_30uS><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>85</LINE></delay_30uS>
+  <d30_loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>89</LINE></d30_loop>
+  <v_delay><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>117</LINE></v_delay>
+  <delay_40mS><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>134</LINE></delay_40mS>
+  <init_spi_lcd><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>148</LINE></init_spi_lcd>
+  <wait_transmit_init><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>183</LINE></wait_transmit_init>
+  <lcd_spi_transmit_CMD><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>205</LINE></lcd_spi_transmit_CMD>
+  <wait_transmit0><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>208</LINE></wait_transmit0>
+  <wait_transmit1><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>224</LINE></wait_transmit1>
+  <lcd_spi_transmit_DATA><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>244</LINE></lcd_spi_transmit_DATA>
+  <wait_transmit2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>247</LINE></wait_transmit2>
+  <wait_transmit3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>263</LINE></wait_transmit3>
+  <start_dly_40ms><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>286</LINE></start_dly_40ms>
+  <func_set1><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>289</LINE></func_set1>
+  <func_set2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>294</LINE></func_set2>
+  <bias_set><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>299</LINE></bias_set>
+  <contrast_set><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>304</LINE></contrast_set>
+  <power_ctrl><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>310</LINE></power_ctrl>
+  <follower_ctrl><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>316</LINE></follower_ctrl>
+  <display_on><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>325</LINE></display_on>
+  <entry_mode><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>330</LINE></entry_mode>
+  <clr_display><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>336</LINE></clr_display>
+  <wr_line1><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>359</LINE></wr_line1>
+  <snd_ddram_addr><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>362</LINE></snd_ddram_addr>
+  <snd_buff_1><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>366</LINE></snd_buff_1>
+  <init_for_buff_2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>374</LINE></init_for_buff_2>
+  <wr_line2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>377</LINE></wr_line2>
+  <snd_ddram_addr2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>380</LINE></snd_ddram_addr2>
+  <snd_buff_2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>384</LINE></snd_buff_2>
+  <init_for_buff_3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>392</LINE></init_for_buff_3>
+  <wr_line3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>394</LINE></wr_line3>
+  <snd_ddram_addr3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>397</LINE></snd_ddram_addr3>
+  <snd_buff_3><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\lcd_dog_asm_driver_avr128.inc</FILE><LINE>401</LINE></snd_buff_3>
+  <store_bytes><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>92</LINE></store_bytes>
+  <loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>109</LINE></loop>
+  <jump_ascii><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>123</LINE></jump_ascii>
+  <jump_ascii_2><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>127</LINE></jump_ascii_2>
+  <outer_loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>135</LINE></outer_loop>
+  <inner_loop><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>137</LINE></inner_loop>
+  <load_msg><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>178</LINE></load_msg>
+  <get_msg_byte><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>190</LINE></get_msg_byte>
+  <msg_loaded><FILE>F:\ESE280 Lab\Lab7\task01-project\task01-project\main.asm</FILE><LINE>196</LINE></msg_loaded>
+ </LABELS>
+</ASSEMBLER_INFO>
