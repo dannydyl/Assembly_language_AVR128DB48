@@ -1,0 +1,5 @@
+
+AVRASM ver. 2.2.8  F:\ESE280 Lab\Lab8\task4\task4\main.asm Thu Nov 02 11:12:14 2023
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc'
+F:\ESE280 Lab\Lab8\task4\task4\main.asm(159): error: syntax error, unexpected REGISTER

@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab9\task1\task1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab9\task1\task1\Debug\task1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>task1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>task1.map</FILE>
+  <FILE>task1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>1</LINE></start>
+  <main_loop><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>7</LINE></main_loop>
+  <lookup><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>148</LINE></lookup>
+  <always_off><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>110</LINE></always_off>
+  <r16_is_1><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>50</LINE></r16_is_1>
+  <r16_is_2><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>54</LINE></r16_is_2>
+  <r16_is_3><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>58</LINE></r16_is_3>
+  <r16_is_4><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>62</LINE></r16_is_4>
+  <r16_is_5><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>66</LINE></r16_is_5>
+  <r16_is_6><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>70</LINE></r16_is_6>
+  <r16_is_7><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>74</LINE></r16_is_7>
+  <r16_is_8><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>78</LINE></r16_is_8>
+  <r16_is_9><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>82</LINE></r16_is_9>
+  <r16_is_A><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>86</LINE></r16_is_A>
+  <r16_is_B><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>90</LINE></r16_is_B>
+  <r16_is_C><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>94</LINE></r16_is_C>
+  <r16_is_D><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>98</LINE></r16_is_D>
+  <r16_is_E><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>102</LINE></r16_is_E>
+  <always_on><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>115</LINE></always_on>
+  <timing_loop><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>120</LINE></timing_loop>
+  <r16_is_F><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>106</LINE></r16_is_F>
+  <loop><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>126</LINE></loop>
+  <dec_loop><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>129</LINE></dec_loop>
+  <loop2><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>135</LINE></loop2>
+  <dec_loop2><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>138</LINE></dec_loop2>
+  <table><FILE>F:\ESE280 Lab\Lab9\task1\task1\main.asm</FILE><LINE>146</LINE></table>
+ </LABELS>
+</ASSEMBLER_INFO>
