@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\Debug\logic_ops.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>logic_ops.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>logic_ops.map</FILE>
+  <FILE>logic_ops.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>10</LINE></start>
+  <main_loop><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>16</LINE></main_loop>
+  <and_fcn><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>34</LINE></and_fcn>
+  <xor_fcn><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>40</LINE></xor_fcn>
+  <not_fcn><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>30</LINE></not_fcn>
+  <output><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>42</LINE></output>
+  <or_fcn><FILE>F:\ESE280 Lab\Lab4\logic_ops\logic_ops\main.asm</FILE><LINE>37</LINE></or_fcn>
+ </LABELS>
+</ASSEMBLER_INFO>

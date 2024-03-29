@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab5\unconditional_input\unconditional_input\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab5\unconditional_input\unconditional_input\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab5\unconditional_input\unconditional_input\Debug\unconditional_input.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>unconditional_input.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>unconditional_input.map</FILE>
+  <FILE>unconditional_input.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>F:\ESE280 Lab\Lab5\unconditional_input\unconditional_input\main.asm</FILE><LINE>8</LINE></start>
+  <again><FILE>F:\ESE280 Lab\Lab5\unconditional_input\unconditional_input\main.asm</FILE><LINE>14</LINE></again>
+ </LABELS>
+</ASSEMBLER_INFO>

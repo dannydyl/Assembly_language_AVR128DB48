@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\Debug\prelab-task1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>prelab-task1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>prelab-task1.map</FILE>
+  <FILE>prelab-task1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>10</LINE></start>
+  <wait_for_0><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>16</LINE></wait_for_0>
+  <wait_for_1><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>19</LINE></wait_for_1>
+  <check_full><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>24</LINE></check_full>
+  <reset><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>29</LINE></reset>
+  <output><FILE>F:\ESE280 Lab\Lab5\prelab-task1\prelab-task1\main.asm</FILE><LINE>33</LINE></output>
+ </LABELS>
+</ASSEMBLER_INFO>
