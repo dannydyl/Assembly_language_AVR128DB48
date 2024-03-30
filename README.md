@@ -2,43 +2,43 @@
 
 ## Overview
 
-This repository contains the laboratory work for ESE280 Embedded Microcontroller Systems Design I, a course that focuses on the fundamental hardware and software concepts in designing microcontroller-based embedded systems. The course, taught at Stony Brook University under the instruction of Prof. Kenneth Short, leverages the Atmel/Microchip AVR128DB48 microcontroller, providing hands-on experience in embedded systems design.
+This repository documents the laboratory work for ESE280 Embedded Microcontroller Systems Design I at Stony Brook University, instructed by Prof. Kenneth Short. The course delves into the essentials of microcontroller-based embedded system design, with a practical emphasis on using the Atmel/Microchip AVR128DB48 microcontroller.
 
 ## Course Objectives
 
-- To understand the core principles of embedded microcontroller systems design.
-- To gain practical experience with the AVR128DB48 microcontroller, utilizing the AVR128DB48 Curiosity Nano development board.
-- To develop proficiency in assembly language programming and microcontroller interfacing for embedded applications.
+- Grasp fundamental hardware and software principles in embedded systems design.
+- Apply hands-on skills with the AVR128DB48 microcontroller using the AVR128DB48 Curiosity Nano board.
+- Develop embedded applications and understand system-level design through practical lab exercises.
 
-## Laboratory Overview
+## Laboratory Focus
 
-The labs are integral to the course, reinforcing concepts from lectures and providing practical, hands-on experience with microcontroller programming and interfacing. Each lab is designed around the AVR128DB48 microcontroller, exploring various aspects of embedded system design from basic IO operations to more complex system integrations.
+The laboratory component is vital, reinforcing theoretical knowledge through practical application. Students engage in diverse tasks, from simple microcontroller programming to complex embedded system integrations, all while utilizing the AVR128DB48 microcontroller.
+
+## Tools and Software
+
+- **Atmel Studio 7**: The primary IDE used for developing, testing, and debugging assembly code for the AVR microcontrollers.
+- **OrCAD**: Used for circuit design and simulation, providing a graphical interface for creating and testing electronic circuits, complementing the microcontroller projects.
 
 ## Getting Started
 
-- **Prerequisites**: Familiarity with basic digital logic and assembly language is beneficial.
-- **Tools**: Atmel Studio 7 is used for development, providing an integrated environment for coding, assembling, and debugging AVR assembly programs.
+- **Environment Setup**: Ensure you have Atmel Studio 7 and OrCAD installed and configured on your workstation.
+- **Repository Navigation**: The `Labs` folder contains subdirectories for each lab, including instructions, source code, and OrCAD design files.
 
 ## Lab Sessions
 
-Lab sessions are held weekly, emphasizing the application of lecture concepts in real-world scenarios. Students are tasked with designing, implementing, and testing various components of an embedded system, culminating in a comprehensive understanding of microcontroller-based system design.
+Each lab is an opportunity to apply lecture concepts in tangible projects, culminating in a deep understanding of embedded systems design. The use of OrCAD for circuit design tasks adds an extra dimension, bridging the gap between software programming and hardware design.
 
 ## Repository Structure
 
-- `Labs`: Contains individual directories for each lab session, including the lab instructions, assembly code, and any additional resources or data sheets.
-- `Reference`: Includes datasheets for the AVR128DB48 microcontroller, Atmel 8-bit instruction set, and other pertinent documentation for successful lab completion.
-
-## Installation
-
-1. **Atmel Studio 7**: Follow the [installation guide](https://www.microchip.com/mplab/avr-support/atmel-studio-7) to set up Atmel Studio on your computer.
-2. **Clone the Repository**: Use `git clone` to download the lab materials and start experimenting with the code.
+- `Labs`: Individual lab directories with instructions, AVR assembly code, and OrCAD design files.
+- `Reference`: Essential datasheets and documentation, including AVR128DB48 specifics and OrCAD user guides.
 
 ## Contributing
 
-Contributions to this repository are welcome, especially from students who wish to share their solutions or improvements. Please ensure your contributions adhere to best practices in coding and documentation.
+Your contributions and insights are welcome to enhance the repository, fostering a collaborative learning environment. Ensure your contributions are well-documented and adhere to coding and design standards.
 
 ## Acknowledgments
 
-- Prof. Kenneth Short for his guidance and the comprehensive course structure.
-- The Department of Electrical and Computer Engineering at Stony Brook University for providing the resources and environment for embedded systems education.
-- My peers and colleagues for their insights and collaborative efforts during the lab sessions.
+- Prof. Kenneth Short for his instructional expertise and course design.
+- Stony Brook University's Electrical and Computer Engineering Department for the educational resources.
+- Fellow students and collaborators for their shared enthusiasm and support during the lab sessions.
